@@ -87,6 +87,8 @@
 								</td>
 							</tr>
 							<tr>
+
+								<p>YOUR MOM</p>
 								<td>
 									<button ng-click="addTask()" class="btn-panel-big">Add New Task</button></td>
 							</tr>
