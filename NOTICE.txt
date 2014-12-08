@@ -1,0 +1,9 @@
+
+   Task Manager Project
+   Copyright 2015 Cagno Solutions, LLC
+
+   This product includes software developed at
+   Cagno Solutions, LLC
+   Websites for the company can be located below:
+
+   - http://www.cagnosolutions.com/
